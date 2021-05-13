@@ -5,5 +5,5 @@ we propose a regularized graph auto-encoders (RGAE) model, committed to utilizin
 ## Env
 python3.6 Tensorflow 1.12.0
 ## Usage
-``` python main.py ```
+``` python main.py -c ./config/aminer.ini ```
 

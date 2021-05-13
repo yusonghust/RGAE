@@ -5,7 +5,7 @@ import scipy.io as sio
 import time
 import copy
 from graph import Graph
-from model.mvdne_new import MVDNE
+from model.mvdne import MVDNE
 from utils.utils import *
 from optparse import OptionParser
 import os
